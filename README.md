@@ -1,6 +1,15 @@
 <p align="center">
    <a href="https://github.com/Diegoson">
     <img src="https://media1.giphy.com/media/XqVUeEK5Lt3VOGEzJj/giphy.gif" width="610">
+        <img
+        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=FCBF01&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+Diegoson.;Also+known+as+Toxic+Cyber.;Welcome+to+my+GitHub."
+            alt="Typing SVG" width="580px"
+        />
+    </a>
+</p>
+</div>
+
+      
      
 ---
 # IM DIEGOSON 
